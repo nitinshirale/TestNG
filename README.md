@@ -1,2 +1,2 @@
 # TestNG
-TestNG Framwork Program
+TestNG is a testing framework for the Java programming language
